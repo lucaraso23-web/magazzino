@@ -1,0 +1,26 @@
+{
+  "name": "Magazzino frigorista",
+  "short_name": "Magazzino",
+  "description": "Materiale diviso per categorie e lista da ordinare al fornitore",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef3f6",
+  "theme_color": "#0b6e8a",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
